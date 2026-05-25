@@ -180,6 +180,4 @@ No license file is included in this repository. Add a `LICENSE` file to define t
 
 ## Screenshots
 
-![Project overview](screenshots/placeholder.png)
-
-> Add screenshots or visualizations here once available.
+![Project overview](output.png)
